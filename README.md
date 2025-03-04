@@ -1,1 +1,1 @@
-# Deep_Learning_Final
+This is a repository for my final project for Introduction to Deep Learning, through the University of Colorado - Boulder MS-DS program.  The objective of this project was to use deep learning to categorize articles found in the open-access archive, arXiv.
